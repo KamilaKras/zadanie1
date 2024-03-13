@@ -18,3 +18,10 @@ wysokosc = 10
 pole_trojkat = 1/2 * bok_b * wysokosc
 
 print("Pole trojkata wynosi: " + str(pole_trojkat))
+
+
+promien = 4
+
+pole_kolo = 3.14 * promien * promien
+
+print("Pole kola wynosi: " + str(pole_kolo))
